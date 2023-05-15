@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.4.1-rc" class="java.beans.XMLDecoder"> 
+ <object class="javax.swing.JPanel"> 
+  <void property="background"> 
+   <object id="Color0" class="java.awt.Color"> 
+    <int>160</int> 
+    <int>160</int> 
+    <int>255</int> 
+    <int>255</int> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.ObjetTerrestre"> 
+    <void property="background"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>150</int> 
+      <int>75</int> 
+      <int>50</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>100</int> 
+    </void> 
+    <void property="tailleCont"> 
+     <int>100</int> 
+    </void> 
+    <void property="w"> 
+     <int>50</int> 
+    </void> 
+    <void property="x"> 
+     <int>490</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.ObjetTerrestre"> 
+    <void property="background"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>150</int> 
+      <int>75</int> 
+      <int>50</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>100</int> 
+    </void> 
+    <void property="tailleCont"> 
+     <int>100</int> 
+    </void> 
+    <void property="w"> 
+     <int>50</int> 
+    </void> 
+    <void property="x"> 
+     <int>540</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>113</int> 
+      <int>50</int> 
+      <int>163</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>88</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>29</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>20</int> 
+    </void> 
+    <void property="w"> 
+     <int>61</int> 
+    </void> 
+    <void property="x"> 
+     <int>99</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>254</int> 
+      <int>32</int> 
+      <int>214</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>92</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>7</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>24</int> 
+    </void> 
+    <void property="w"> 
+     <int>49</int> 
+    </void> 
+    <void property="x"> 
+     <int>300</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>150</int> 
+      <int>206</int> 
+      <int>16</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>91</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>15</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>25</int> 
+    </void> 
+    <void property="w"> 
+     <int>76</int> 
+    </void> 
+    <void property="x"> 
+     <int>322</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>120</int> 
+      <int>136</int> 
+      <int>108</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>41</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>10</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>21</int> 
+    </void> 
+    <void property="w"> 
+     <int>85</int> 
+    </void> 
+    <void property="x"> 
+     <int>30</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>118</int> 
+      <int>81</int> 
+      <int>188</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>57</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>28</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>16</int> 
+    </void> 
+    <void property="w"> 
+     <int>97</int> 
+    </void> 
+    <void property="x"> 
+     <int>94</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>98</int> 
+      <int>87</int> 
+      <int>225</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>69</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>17</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>9</int> 
+    </void> 
+    <void property="w"> 
+     <int>64</int> 
+    </void> 
+    <void property="x"> 
+     <int>222</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Immeuble"> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>35</int> 
+      <int>241</int> 
+      <int>173</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="h"> 
+     <int>109</int> 
+    </void> 
+    <void property="nbEtages"> 
+     <int>27</int> 
+    </void> 
+    <void property="nbFenParEtag"> 
+     <int>16</int> 
+    </void> 
+    <void property="w"> 
+     <int>65</int> 
+    </void> 
+    <void property="x"> 
+     <int>141</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Planete"> 
+    <void property="background"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="deltaHorizon"> 
+     <int>50</int> 
+    </void> 
+    <void property="h"> 
+     <int>401</int> 
+    </void> 
+    <void property="rayon"> 
+     <int>200</int> 
+    </void> 
+    <void property="sommets"> 
+     <object class="java.util.Vector"> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>400</int> 
+        <int>200</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>385</int> 
+        <int>277</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>341</int> 
+        <int>341</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>277</int> 
+        <int>385</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>200</int> 
+        <int>400</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>123</int> 
+        <int>385</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>59</int> 
+        <int>341</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>15</int> 
+        <int>277</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>0</int> 
+        <int>200</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>15</int> 
+        <int>123</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>59</int> 
+        <int>59</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>123</int> 
+        <int>15</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>200</int> 
+        <int>0</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>277</int> 
+        <int>15</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>341</int> 
+        <int>59</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>385</int> 
+        <int>123</int> 
+       </object> 
+      </void> 
+     </object> 
+    </void> 
+    <void property="w"> 
+     <int>401</int> 
+    </void> 
+    <void property="x"> 
+     <int>-40</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="org.vincimelun.poesie.Soleil"> 
+    <void property="background"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurFond"> 
+     <object idref="Color0"/> 
+    </void> 
+    <void property="couleurTrait"> 
+     <object class="java.awt.Color"> 
+      <int>255</int> 
+      <int>255</int> 
+      <int>0</int> 
+      <int>255</int> 
+     </object> 
+    </void> 
+    <void property="deltaHorizon"> 
+     <int>125</int> 
+    </void> 
+    <void property="diametre"> 
+     <int>100</int> 
+    </void> 
+    <void property="h"> 
+     <int>200</int> 
+    </void> 
+    <void property="sommets"> 
+     <object class="java.util.Vector"> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>200</int> 
+        <int>100</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>192</int> 
+        <int>138</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>171</int> 
+        <int>171</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>138</int> 
+        <int>192</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>100</int> 
+        <int>200</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>62</int> 
+        <int>192</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>29</int> 
+        <int>171</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>8</int> 
+        <int>138</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>0</int> 
+        <int>100</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>8</int> 
+        <int>62</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>29</int> 
+        <int>29</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>62</int> 
+        <int>8</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>100</int> 
+        <int>0</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>138</int> 
+        <int>8</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>171</int> 
+        <int>29</int> 
+       </object> 
+      </void> 
+      <void method="add"> 
+       <object class="java.awt.Point"> 
+        <int>192</int> 
+        <int>62</int> 
+       </object> 
+      </void> 
+     </object> 
+    </void> 
+    <void property="w"> 
+     <int>200</int> 
+    </void> 
+    <void property="x"> 
+     <int>400</int> 
+    </void> 
+   </object> 
+  </void> 
+  <void property="layout"> 
+   <object class="org.vincimelun.poesie.PaysageLayout"/> 
+  </void> 
+  <void property="name"> 
+   <string>null.contentPane</string> 
+  </void> 
+ </object> 
+</java> 

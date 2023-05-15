@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    width:100%;
+    font:14px/00 Arial,sans-serif;
+     background:radial-gradient( farthest-corner circle at center,#F57F17,#F57F17,#283593,#01579B,#020f9c,#0412ad,#030c6e)}
+
